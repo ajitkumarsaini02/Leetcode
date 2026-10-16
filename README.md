@@ -10,6 +10,7 @@
 | [1470-shuffle-the-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0709-to-lower-case) |
+| [1528-shuffle-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
