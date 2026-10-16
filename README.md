@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2469-convert-the-temperature](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2469-convert-the-temperature) |
 ## Prefix Sum
 |  |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0709-to-lower-case) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
