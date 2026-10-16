@@ -41,6 +41,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0412-fizz-buzz) |
 | [0866-prime-palindrome](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0866-prime-palindrome) |
