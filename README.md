@@ -31,6 +31,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
