@@ -23,12 +23,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -42,6 +44,7 @@
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
