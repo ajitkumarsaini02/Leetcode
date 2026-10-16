@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0204-count-primes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -89,4 +91,24 @@
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
