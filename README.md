@@ -45,6 +45,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1816-truncate-sentence) |
+| [2000-reverse-prefix-of-word](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Bit Manipulation
@@ -69,4 +70,12 @@
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1512-number-of-good-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
