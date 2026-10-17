@@ -7,14 +7,13 @@ public:
             mp[s[i]]++;
         }
         for(int i=0;i<t.size();i++){
-
-            if(mp.find(t[i]) != mp.end()){
-                mp[t[i]]--;
-                if(mp[t[i]] == 0) mp.erase(t[i]);
-            }
-            else return false;
+            mp[t[i]]--;
         }
-        if(mp.size() > 0) return false;
+        
+        for(auto& x : mp){
+            if(x.second != 0) return false;
+        }
+
         return true;
     }
 };
