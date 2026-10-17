@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -94,6 +96,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
