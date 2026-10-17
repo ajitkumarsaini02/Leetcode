@@ -12,6 +12,7 @@
 | [0059-spiral-matrix-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0204-count-primes) |
@@ -174,6 +175,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0118-pascals-triangle) |
 | [0396-rotate-function](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0396-rotate-function) |
 ## Brainteaser
 |  |
