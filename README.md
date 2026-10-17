@@ -22,6 +22,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -89,10 +90,12 @@
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Counting Sort
 |  |
 | ------- |
