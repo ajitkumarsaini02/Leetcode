@@ -92,6 +92,7 @@
 | [0067-add-binary](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1528-shuffle-string) |
@@ -123,6 +124,7 @@
 | [0169-majority-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -134,6 +136,7 @@
 | [0169-majority-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
