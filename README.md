@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0189-rotate-array) |
@@ -97,6 +98,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1512-number-of-good-pairs) |
