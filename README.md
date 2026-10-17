@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0204-count-primes) |
+| [0396-rotate-function](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0396-rotate-function) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -43,6 +44,7 @@
 | [0258-add-digits](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0412-fizz-buzz) |
 | [0866-prime-palindrome](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0866-prime-palindrome) |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0396-rotate-function](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0396-rotate-function) |
 <!---LeetCode Topics End-->
