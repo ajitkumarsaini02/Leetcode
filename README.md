@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0204-count-primes) |
@@ -103,11 +104,13 @@
 | [0048-rotate-image](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1512-number-of-good-pairs) |
