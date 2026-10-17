@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0217-contains-duplicate) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0136-single-number) |
 | [1486-xor-operation-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
