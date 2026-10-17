@@ -43,6 +43,7 @@
 | [0258-add-digits](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0400-nth-digit](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0412-fizz-buzz) |
 | [0866-prime-palindrome](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0866-prime-palindrome) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0400-nth-digit](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0400-nth-digit) |
 ## Prime Factorization
 |  |
 | ------- |
