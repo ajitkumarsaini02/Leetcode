@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0041-first-missing-positive) |
@@ -89,6 +90,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -221,4 +223,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
