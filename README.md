@@ -66,6 +66,7 @@
 | [0048-rotate-image](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -222,6 +223,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0396-rotate-function](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0396-rotate-function) |
@@ -246,4 +248,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
