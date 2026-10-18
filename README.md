@@ -111,6 +111,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0415-add-strings) |
+| [0482-license-key-formatting](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0482-license-key-formatting) |
 | [0709-to-lower-case](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
