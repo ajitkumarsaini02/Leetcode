@@ -60,6 +60,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0067-add-binary) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0067-add-binary) |
@@ -130,6 +132,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0169-majority-element) |
