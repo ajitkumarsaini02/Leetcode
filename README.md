@@ -26,6 +26,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -115,6 +116,7 @@
 | [0482-license-key-formatting](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0482-license-key-formatting) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0709-to-lower-case](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0709-to-lower-case) |
+| [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [1528-shuffle-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -150,6 +152,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -162,6 +165,7 @@
 | [0242-valid-anagram](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Counting Sort
