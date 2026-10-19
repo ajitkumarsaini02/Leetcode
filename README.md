@@ -30,6 +30,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1095-find-in-mountain-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -179,6 +180,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
+| [0922-sort-array-by-parity-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -202,6 +204,7 @@
 | [0165-compare-version-numbers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0922-sort-array-by-parity-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2000-reverse-prefix-of-word) |
