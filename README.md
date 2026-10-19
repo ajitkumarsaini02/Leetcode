@@ -31,6 +31,7 @@
 | [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -181,6 +182,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -192,6 +194,7 @@
 | [0169-majority-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1051-height-checker](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
@@ -315,6 +318,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1051-height-checker) |
 ## Linked List
 |  |
 | ------- |
