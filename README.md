@@ -29,6 +29,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -156,6 +157,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -169,6 +171,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -189,6 +192,7 @@
 | [0165-compare-version-numbers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -227,6 +231,7 @@
 | [0367-valid-perfect-square](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0400-nth-digit) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prime Factorization
 |  |
