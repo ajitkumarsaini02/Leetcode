@@ -68,6 +68,7 @@
 | [0048-rotate-image](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -221,6 +222,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0400-nth-digit) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -268,4 +270,8 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0096-unique-binary-search-trees) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
