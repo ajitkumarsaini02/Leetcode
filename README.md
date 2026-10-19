@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0054-spiral-matrix) |
@@ -253,6 +254,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0400-nth-digit) |
