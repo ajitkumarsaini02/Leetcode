@@ -36,6 +36,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1528-shuffle-string) |
+| [1539-kth-missing-positive-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -232,6 +233,7 @@
 | [0400-nth-digit](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0400-nth-digit) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1539-kth-missing-positive-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prime Factorization
 |  |
