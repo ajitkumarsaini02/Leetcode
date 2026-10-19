@@ -50,6 +50,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Simulation
 |  |
@@ -181,6 +182,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Counting Sort
 |  |
