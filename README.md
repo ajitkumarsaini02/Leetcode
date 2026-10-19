@@ -21,6 +21,7 @@
 | [0118-pascals-triangle](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0204-count-primes) |
@@ -262,6 +263,7 @@
 | [0035-search-insert-position](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0441-arranging-coins) |
