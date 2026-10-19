@@ -88,6 +88,7 @@
 | [0400-nth-digit](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-prime-palindrome](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0866-prime-palindrome) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -233,6 +234,7 @@
 | [0069-sqrtx](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0400-nth-digit) |
+| [0441-arranging-coins](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1095-find-in-mountain-array) |
