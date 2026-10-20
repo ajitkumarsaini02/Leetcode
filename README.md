@@ -33,6 +33,7 @@
 | [0228-summary-ranges](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0275-h-index-ii) |
 | [0396-rotate-function](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -286,6 +287,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0162-find-peak-element) |
+| [0275-h-index-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0275-h-index-ii) |
 | [0367-valid-perfect-square](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0441-arranging-coins) |
