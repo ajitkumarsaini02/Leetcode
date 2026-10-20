@@ -148,6 +148,7 @@
 | [0521-longest-uncommon-subsequence-i](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0709-to-lower-case](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0709-to-lower-case) |
 | [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
+| [0981-time-based-key-value-store](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1528-shuffle-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -186,6 +187,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
+| [0981-time-based-key-value-store](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -298,6 +300,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0981-time-based-key-value-store](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1095-find-in-mountain-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -382,4 +385,8 @@
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
