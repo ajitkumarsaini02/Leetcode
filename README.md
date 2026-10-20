@@ -41,6 +41,7 @@
 | [0704-binary-search](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -201,6 +202,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1051-height-checker) |
@@ -234,6 +236,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0658-find-k-closest-elements](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0922-sort-array-by-parity-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -288,6 +291,7 @@
 | [0704-binary-search](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -372,4 +376,5 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 <!---LeetCode Topics End-->
