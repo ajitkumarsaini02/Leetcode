@@ -32,6 +32,7 @@
 | [0217-contains-duplicate](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0274-h-index) |
 | [0396-rotate-function](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -198,6 +199,7 @@
 | [0217-contains-duplicate](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -219,6 +221,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0274-h-index) |
 | [0387-first-unique-character-in-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
