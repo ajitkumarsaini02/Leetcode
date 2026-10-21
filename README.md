@@ -37,6 +37,7 @@
 | [0396-rotate-function](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -149,6 +150,7 @@
 | [0415-add-strings](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0482-license-key-formatting) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0709-to-lower-case](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0709-to-lower-case) |
 | [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0981-time-based-key-value-store](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0981-time-based-key-value-store) |
@@ -189,6 +191,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0981-time-based-key-value-store](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -207,6 +210,7 @@
 | [0242-valid-anagram](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -244,6 +248,7 @@
 | [0165-compare-version-numbers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0658-find-k-closest-elements](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
