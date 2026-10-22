@@ -1,9 +1,4 @@
 #include <cctype>
-#include <sstream>
-#include <string>
-
-using namespace std;
-
 class Solution {
 public:
     bool isValidIPv4(const string& ip) {
