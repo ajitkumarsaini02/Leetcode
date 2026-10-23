@@ -69,6 +69,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -330,6 +333,7 @@
 | [1095-find-in-mountain-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Prime Factorization
@@ -407,6 +411,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -424,6 +429,7 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Monotonic Stack
 |  |
 | ------- |
