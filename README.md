@@ -37,6 +37,7 @@
 | [0274-h-index](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0289-game-of-life) |
+| [0349-intersection-of-two-arrays](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -208,6 +209,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -229,6 +231,7 @@
 | [0229-majority-element-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -272,6 +275,7 @@
 | [0189-rotate-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -327,6 +331,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0275-h-index-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0441-arranging-coins) |
