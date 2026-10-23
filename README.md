@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0054-spiral-matrix) |
@@ -184,6 +185,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -196,6 +198,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0169-majority-element) |
