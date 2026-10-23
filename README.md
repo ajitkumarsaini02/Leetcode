@@ -166,6 +166,7 @@
 | [0521-longest-uncommon-subsequence-i](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0709-to-lower-case](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0981-time-based-key-value-store](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1528-shuffle-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1528-shuffle-string) |
@@ -214,6 +215,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0771-jewels-and-stones](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0981-time-based-key-value-store](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
