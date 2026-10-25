@@ -55,6 +55,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1095-find-in-mountain-array) |
+| [1254-number-of-closed-islands](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -197,6 +198,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0289-game-of-life) |
+| [1254-number-of-closed-islands](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -456,4 +458,16 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0202-happy-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
