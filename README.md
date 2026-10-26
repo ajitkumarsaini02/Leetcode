@@ -83,6 +83,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
@@ -205,6 +206,7 @@
 | [0289-game-of-life](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0289-game-of-life) |
 | [1254-number-of-closed-islands](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -470,12 +472,15 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
