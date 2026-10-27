@@ -164,6 +164,7 @@
 | [0242-valid-anagram](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0415-add-strings) |
 | [0468-validate-ip-address](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0468-validate-ip-address) |
@@ -291,6 +292,7 @@
 | [0202-happy-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0392-is-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -374,6 +376,7 @@
 | [0096-unique-binary-search-trees](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0396-rotate-function) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Brainteaser
