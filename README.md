@@ -73,6 +73,7 @@
 | [1539-kth-missing-positive-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1695-maximum-erasure-value](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1773-count-items-matching-a-rule](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -241,6 +242,7 @@
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1695-maximum-erasure-value](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
@@ -454,6 +456,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0978-longest-turbulent-subarray](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0978-longest-turbulent-subarray) |
+| [1695-maximum-erasure-value](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
