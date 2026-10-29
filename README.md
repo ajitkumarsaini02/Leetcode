@@ -186,6 +186,7 @@
 | [0771-jewels-and-stones](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0981-time-based-key-value-store](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [1396-design-underground-system](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1396-design-underground-system) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1528-shuffle-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -246,6 +247,7 @@
 | [0981-time-based-key-value-store](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1396-design-underground-system](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1396-design-underground-system) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -480,6 +482,7 @@
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [1396-design-underground-system](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1396-design-underground-system) |
 ## Geometry
 |  |
 | ------- |
