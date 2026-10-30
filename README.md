@@ -53,6 +53,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0978-longest-turbulent-subarray) |
@@ -493,6 +494,7 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0860-lemonade-change](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Monotonic Stack
