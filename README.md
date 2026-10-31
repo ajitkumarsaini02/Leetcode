@@ -198,6 +198,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2409-count-days-spent-together](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2409-count-days-spent-together) |
 ## Bit Manipulation
 |  |
@@ -497,6 +498,7 @@
 | [0860-lemonade-change](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Monotonic Stack
 |  |
 | ------- |
