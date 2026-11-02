@@ -189,6 +189,7 @@
 | [0771-jewels-and-stones](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0833-find-and-replace-in-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0981-time-based-key-value-store](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [1143-longest-common-subsequence](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1396-design-underground-system](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1396-design-underground-system) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1528-shuffle-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1528-shuffle-string) |
@@ -406,6 +407,7 @@
 | [0392-is-subsequence](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0396-rotate-function) |
 | [0978-longest-turbulent-subarray](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0978-longest-turbulent-subarray) |
+| [1143-longest-common-subsequence](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Brainteaser
@@ -528,4 +530,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0881-boats-to-save-people) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
