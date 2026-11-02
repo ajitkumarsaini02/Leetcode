@@ -45,6 +45,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0605-can-place-flowers) |
 | [0609-find-duplicate-file-in-system](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -499,6 +500,7 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
