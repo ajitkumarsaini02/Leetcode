@@ -94,6 +94,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
@@ -151,6 +152,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2469-convert-the-temperature) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
