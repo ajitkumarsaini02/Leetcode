@@ -93,6 +93,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3028-ant-on-the-boundary](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -301,6 +302,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Counting Sort
@@ -516,6 +518,7 @@
 | [0881-boats-to-save-people](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Monotonic Stack
 |  |
 | ------- |
