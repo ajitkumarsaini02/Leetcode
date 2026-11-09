@@ -82,6 +82,7 @@
 | [1816-truncate-sentence](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1882-process-tasks-using-servers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -510,6 +511,7 @@
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1882-process-tasks-using-servers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1882-process-tasks-using-servers) |
 ## Design
 |  |
 | ------- |
