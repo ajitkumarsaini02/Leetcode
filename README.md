@@ -101,6 +101,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -432,6 +433,7 @@
 | [0978-longest-turbulent-subarray](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1143-longest-common-subsequence](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [3693-climbing-stairs-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Brainteaser
 |  |
