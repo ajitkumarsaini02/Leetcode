@@ -164,6 +164,7 @@
 | [2409-count-days-spent-together](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2469-convert-the-temperature) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
@@ -534,6 +535,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Monotonic Stack
 |  |
 | ------- |
