@@ -99,6 +99,7 @@
 | [3028-ant-on-the-boundary](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -174,6 +175,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3028-ant-on-the-boundary](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
 | ------- |
@@ -510,6 +512,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2747-count-zero-request-servers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
