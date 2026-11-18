@@ -96,6 +96,7 @@
 | [2363-merge-similar-items](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2363-merge-similar-items) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2747-count-zero-request-servers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3028-ant-on-the-boundary](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
