@@ -95,6 +95,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2363-merge-similar-items](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2363-merge-similar-items) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
@@ -322,6 +323,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2363-merge-similar-items](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2363-merge-similar-items) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -545,6 +547,7 @@
 | [0881-boats-to-save-people](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Monotonic Stack
