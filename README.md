@@ -64,6 +64,7 @@
 | [1254-number-of-closed-islands](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -251,6 +252,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0289-game-of-life) |
 | [1254-number-of-closed-islands](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -425,6 +427,7 @@
 | [0981-time-based-key-value-store](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1095-find-in-mountain-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
