@@ -227,6 +227,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2409-count-days-spent-together](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
