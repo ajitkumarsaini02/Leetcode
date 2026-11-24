@@ -105,6 +105,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -170,6 +171,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2469-convert-the-temperature) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -379,6 +381,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0204-count-primes) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
@@ -387,6 +390,7 @@
 | [0258-add-digits](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0866-prime-palindrome) |
 | [1492-the-kth-factor-of-n](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
@@ -527,6 +531,7 @@
 | [2747-count-zero-request-servers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
