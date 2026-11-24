@@ -606,4 +606,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/ajitkumarsaini02/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
