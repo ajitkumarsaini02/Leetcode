@@ -129,6 +129,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3028-ant-on-the-boundary](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3360-stone-removal-game](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3360-stone-removal-game) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/ajitkumarsaini02/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/ajitkumarsaini02/Leetcode/tree/master/2469-convert-the-temperature) |
+| [3360-stone-removal-game](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ajitkumarsaini02/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
